@@ -1,0 +1,32 @@
+{
+  "name": "plsql-linter",
+  "main": "index.js",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lint PLSQL on save using the Trivadis PLSQL COP",
+  "keywords": [
+    "linter",
+    "plsql",
+    "trivadis",
+    "oracle"
+  ],
+  "engines": {
+    "atom": ">=1.4.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-linter": "^9.0.0"
+  },
+  "providedServices": {
+    "linter": {
+      "versions": {
+        "2.0.0": "provideLinter"
+      }
+    }
+  },
+  "package-deps": [
+    "linter"
+  ],
+  "configSchema": {
+    
+  }
+}
