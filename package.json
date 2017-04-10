@@ -26,7 +26,5 @@
   "package-deps": [
     "linter"
   ],
-  "configSchema": {
-    
-  }
+  "configSchema": {}
 }
