@@ -1,0 +1,13 @@
+{
+    "port": {
+        "type": "integer",
+        "default": 9876,
+        "title": "Port",
+        "description": "Port to use when starting the PL/SQL Lint Server."
+    },
+    "plsqlLintServerSrc": {
+        "type": "string",
+        "title": "PL/SQL Lint Server Location",
+        "description": "Location of the PL/SQL Lint server install. The file should contain a bin and lib folder. Use / in the path, on windows it will be automatically converted."
+    }
+}

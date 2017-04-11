@@ -1,6 +1,6 @@
 {
   "name": "plsql-linter",
-  "main": "index.js",
+  "main": "./lib/index",
   "version": "1.0.0",
   "private": true,
   "description": "Lint PLSQL on save using the Trivadis PLSQL COP",
@@ -25,6 +25,5 @@
   },
   "package-deps": [
     "linter"
-  ],
-  "configSchema": {}
+  ]
 }
