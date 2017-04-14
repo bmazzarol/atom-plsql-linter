@@ -3,7 +3,7 @@
   "main": "./lib/index",
   "version": "1.0.0",
   "private": true,
-  "description": "Lint PLSQL on save using the Trivadis PLSQL COP",
+  "description": "Lint PL/SQL on save using the Trivadis PL/SQL COP",
   "keywords": [
     "linter",
     "plsql",
