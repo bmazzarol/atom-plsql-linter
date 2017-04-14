@@ -3,7 +3,7 @@
   "main": "./lib/index",
   "version": "2.0.0",
   "private": true,
-  "description": "Lint PL/SQL on save using the Trivadis PL/SQL COP",
+  "description": "Lint PL/SQL using the Trivadis PL/SQL COP",
   "repository": "https://github.com/bmazzarol/atom-plsql-linter.git",
   "keywords": [
     "linter",
