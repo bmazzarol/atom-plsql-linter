@@ -23,8 +23,5 @@
         "2.0.0": "provideLinter"
       }
     }
-  },
-  "package-deps": [
-    "linter"
-  ]
+  }
 }
