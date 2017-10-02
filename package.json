@@ -1,7 +1,7 @@
 {
   "name": "plsql-linter",
   "main": "./lib/index",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "private": true,
   "description": "Lint PL/SQL using the Trivadis PL/SQL COP",
   "repository": "https://github.com/bmazzarol/atom-plsql-linter.git",
