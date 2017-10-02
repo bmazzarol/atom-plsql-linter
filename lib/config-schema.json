@@ -21,6 +21,6 @@
     "type": "string",
     "default": "/",
     "title": "PL/SQL Lint Server Location",
-    "description": "Location of the PL/SQL Lint server install. The file should contain a bin and lib folder. Use the / path seperator, on windows it will be automatically converted."
+    "description": "Location of the PL/SQL Lint server install. The file should contain a bin and lib folder."
   }
 }
